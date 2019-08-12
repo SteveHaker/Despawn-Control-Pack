@@ -1,5 +1,5 @@
 # Despawn-Control-Pack
-This pack contains two functions that can be used to simulate Minecraft Java Edition-style hostile mob despawning within Bedrock edition.
+This Behavior Pack contains two functions that can be used to simulate Minecraft Java Edition-style hostile mob despawning within Bedrock edition.
 
 The first function "dcp/despawn" is used to check the proximity of a player to other players.  If the proximity checks, then "dcp/despawn2" is called, which does the killing of hostile mobs in a region surrounding the player. Mobs that are between 80 and 240 blocks from the player are teleported to the void beneath the player for disposal. Despawning around a player is not performed if there is another player withing 32 blocks of the killing region.  Essentially, this is done to protect grinders. The process is repeated for all players that pass their proximity check. Boss mobs and mobs that have been named with a nametag are spared, zombie pigmen are not.
 
