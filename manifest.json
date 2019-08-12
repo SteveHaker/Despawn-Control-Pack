@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Despawn Control Pack (dcp) v1.0.0",
+        "name": "Despawn Control Pack (dcp) v1.0.0",
+        "uuid": "a8d93a32-9539-42e3-b25f-09667e50e52b",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 8, 0]
+    },
+    "modules": [
+        {
+            "description": "Despawn Control Pack (dcp) v1.0.0",
+            "type": "data",
+            "uuid": "a84299ca-0015-436d-b8f7-556ca17a71a0",
+            "version": [1, 0, 0]
+        }
+    ]
+}
