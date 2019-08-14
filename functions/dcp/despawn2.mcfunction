@@ -3,7 +3,7 @@ tp @e[type=cave_spider,rm=80,r=240,name=""] ~ -32 ~
 tp @e[type=creeper,rm=80,r=240,name=""] ~ -32 ~ 
 tp @e[type=drowned,rm=80,r=240,name=""] ~ -32 ~ 
 tp @e[type=enderman,rm=80,r=240,name=""] ~ -32 ~ 
-tp @e[type=gardian,rm=80,r=240,name=""] ~ -32 ~ 
+tp @e[type=guardian,rm=80,r=240,name=""] ~ -32 ~ 
 tp @e[type=ghast,rm=80,r=240,name=""] ~ -32 ~ 
 tp @e[type=husk,rm=80,r=240,name=""] ~ -32 ~ 
 tp @e[type=magma_cube,rm=80,r=240,name=""] ~ -32 ~ 
